@@ -9,14 +9,14 @@ Below is a comprehensive roadmap that outlines the key steps and topics you shou
 # 1. Python Programming
 Python is widely considered the best programming language for machine learning. It has gained immense popularity in the field of data science and machine learning.
 
- - Python basics, Variables, Operators, Conditional Statements
- - List and Strings
- - Dictionary, Tuple, Set
- - While Loop, Nested Loops, Loop Else
- - For Loop, Break, and Continue statements
- - Functions, Return Statement, Recursion
+ - ✅Python basics, Variables, Operators, Conditional Statements 
+ - ✅List and Strings
+ - ✅Dictionary, Tuple, Set
+ - ✅While Loop, Nested Loops, Loop Else
+ - ✅For Loop, Break, and Continue statements
+ - ✅Functions, Return Statement, Recursion
  - File Handling, Exception Handling
- - Object-Oriented Programming
+ - ✅Object-Oriented Programming
 
 # 2. Data Analysis
 NumPy and Pandas are two essential Python libraries that provide tools for handling and manipulating large datasets efficiently. NumPy is primarily used for numerical computations, while Pandas is built on top of NumPy and offers high-level data structures and functions designed to simplify data analysis tasks.
